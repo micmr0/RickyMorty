@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidRecruitmentApp</string>
+    <string name="episodes">Episodes list</string>
+    <string name="characters">Characters list</string>
+    <string name="locations">Locations list</string>
+    <string name="CHARACTERS_EXTRA" translatable="false">CHARACTERS</string>
+    <string name="EPISODES_EXTRA" translatable="false">EPISODES</string>
+    <string name="LOCATIONS_EXTRA" translatable="false">LOCATIONS</string>
+    <string name="error">There was some error while connecting.</string>
+    <string name="close">CLOSE</string>
+</resources>
